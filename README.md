@@ -1,4 +1,4 @@
-# 2024 Papers
+# Papers Read During the 2024 Year
 
 | Paper | Description | 
 |-------| ------------| 
