@@ -1,6 +1,6 @@
 # Papers Read During the 2024 Year
 
-## This does not count papers read during regularly scheduled reading groups (i.e., with the Northeastern Cosmology Department and with [GammaTau AI](https://github.com/GammaTauAI/WeeklyReadingsArchive)
+## This does not count papers read during regularly scheduled reading groups (i.e., with the Northeastern Cosmology Department and with [GammaTau AI](https://github.com/GammaTauAI/WeeklyReadingsArchive) )
 
 | Paper | Description | 
 |-------| ------------| 
