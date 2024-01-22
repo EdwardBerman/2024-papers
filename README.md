@@ -13,3 +13,4 @@
 | [Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications](https://arxiv.org/pdf/2211.08064.pdf) | GOATed Survey |
 | [WHEN AND WHY PINNS FAIL TO TRAIN: A NEURAL TANGENT KERNEL PERSPECTIVE](https://arxiv.org/pdf/2007.14527.pdf) | NTK Method. Such a sick paper!!! Very nice. |
 | [Rotational and reflectional equivariant convolutional neural network for data-limited applications: Multiphase flow demonstration](https://pubs.aip.org/aip/pof/article/33/10/103323/1064980/Rotational-and-reflectional-equivariant) | PINNs with equivariance |
+| [Social Contract AI: Aligning AI Assistants with Implicit Group Norms](https://arxiv.org/pdf/2310.17769.pdf) | Exploring AI Assistants |
