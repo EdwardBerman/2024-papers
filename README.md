@@ -15,3 +15,4 @@
 | [Rotational and reflectional equivariant convolutional neural network for data-limited applications: Multiphase flow demonstration](https://pubs.aip.org/aip/pof/article/33/10/103323/1064980/Rotational-and-reflectional-equivariant) | PINNs with equivariance |
 | [Social Contract AI: Aligning AI Assistants with Implicit Group Norms](https://arxiv.org/pdf/2310.17769.pdf) | Exploring AI Assistants |
 | [Riemannian Residual Neural Networks](https://arxiv.org/pdf/2310.10013.pdf) | Awesome sauce manifold learning paper. I have done similar work! |
+| [How to Find Variable Active Galactic Nuclei with Machine Learning](https://arxiv.org/pdf/1908.07542.pdf) | Title |
