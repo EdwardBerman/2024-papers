@@ -16,3 +16,4 @@
 | [Social Contract AI: Aligning AI Assistants with Implicit Group Norms](https://arxiv.org/pdf/2310.17769.pdf) | Exploring AI Assistants |
 | [Riemannian Residual Neural Networks](https://arxiv.org/pdf/2310.10013.pdf) | Awesome sauce manifold learning paper. I have done similar work! |
 | [How to Find Variable Active Galactic Nuclei with Machine Learning](https://arxiv.org/pdf/1908.07542.pdf) | Title |
+| [Towards Automated Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/pdf/2304.14997.pdf) | Finds subgraphs corresponding to moreorless the same desired behaviors in the original transformers, i.e., circuits that do a task |
