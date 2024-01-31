@@ -19,3 +19,4 @@
 | [Towards Automated Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/pdf/2304.14997.pdf) | Finds subgraphs corresponding to moreorless the same desired behaviors in the original transformers, i.e., circuits that do a task |
 | [The Lie Derivative for Measuring Learned Equivariance](https://arxiv.org/pdf/2210.02984.pdf) | Counter intuitive results on measured equivariance in non equivariant networks |
 | [THE N5K CHALLENGE: NON-LIMBER INTEGRATION FOR LSST COSMOLOGY](https://arxiv.org/pdf/2212.04291.pdf) | Numeric Integration Methods for 2x3pt correlation functions |
+| [Modeling halo and central galaxy orientations on the SO(3) manifold with score-based generative models](https://arxiv.org/pdf/2212.05592.pdf) | Easy read, I read it because Francois is a coauthor and I have had the pleasure of meeting him, and I happened to come across it |
