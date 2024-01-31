@@ -18,3 +18,4 @@
 | [How to Find Variable Active Galactic Nuclei with Machine Learning](https://arxiv.org/pdf/1908.07542.pdf) | Title |
 | [Towards Automated Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/pdf/2304.14997.pdf) | Finds subgraphs corresponding to moreorless the same desired behaviors in the original transformers, i.e., circuits that do a task |
 | [The Lie Derivative for Measuring Learned Equivariance](https://arxiv.org/pdf/2210.02984.pdf) | Counter intuitive results on measured equivariance in non equivariant networks |
+| [THE N5K CHALLENGE: NON-LIMBER INTEGRATION FOR LSST COSMOLOGY](https://arxiv.org/pdf/2212.04291.pdf) | Numeric Integration Methods for 2x3pt correlation functions |
