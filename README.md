@@ -22,3 +22,4 @@
 | [Modeling halo and central galaxy orientations on the SO(3) manifold with score-based generative models](https://arxiv.org/pdf/2212.05592.pdf) | Easy read, I read it because Francois is a coauthor and I have had the pleasure of meeting him, and I happened to come across it |
 | [Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks](https://arxiv.org/pdf/2401.17263.pdf) | Cool paper that achieves SOTA on preventing Jailbreaking attacks |
 | [The SNR of a Transit](https://arxiv.org/pdf/2305.06790.pdf) | Trying to learn more about cool worlds lab |
+| [A MATHEMATICAL PERSPECTIVE ON TRANSFORMERS](https://arxiv.org/pdf/2312.10794.pdf) | Insane Maths, not really Interpretability, can almost be though of as a physics for transformers |
