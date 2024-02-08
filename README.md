@@ -23,3 +23,4 @@
 | [Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks](https://arxiv.org/pdf/2401.17263.pdf) | Cool paper that achieves SOTA on preventing Jailbreaking attacks |
 | [The SNR of a Transit](https://arxiv.org/pdf/2305.06790.pdf) | Trying to learn more about cool worlds lab |
 | [A MATHEMATICAL PERSPECTIVE ON TRANSFORMERS](https://arxiv.org/pdf/2312.10794.pdf) | Insane Maths, not really Interpretability, can almost be though of as a physics for transformers |
+| [A Phase Transition between Positional and Semantic Learning in a Solvable Model of Dot-Product Attention](https://arxiv.org/pdf/2402.03902.pdf) | Stat Mechs, similar |
