@@ -26,3 +26,4 @@
 | [A Phase Transition between Positional and Semantic Learning in a Solvable Model of Dot-Product Attention](https://arxiv.org/pdf/2402.03902.pdf) | Stat Mechs, similar |
 | [The clock and the pizza: Two stories in mechanistic explanation of neural networks](https://arxiv.org/pdf/2306.17844.pdf) | Pizza |
 | [Opening the AI black box: program synthesis via mechanistic interpretability](https://arxiv.org/pdf/2402.05110.pdf) | Distills RNN hidden states into python programs for bit and integer representations |
+| [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290.pdf) | DPO |
